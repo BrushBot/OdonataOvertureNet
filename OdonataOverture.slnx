@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="odonataoverture.client/odonataoverture.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="OdonataOverture.Server/OdonataOverture.Server.csproj" />
+</Solution>
